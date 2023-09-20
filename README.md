@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;I'm currently learning VueJS.\
+🌱 &nbsp;I'm currently learning Rust.\
 ✍️ &nbsp;I work at [Scaleway](https://scaleway.com) and association [Lynqo](https://lynqo.fr).\
 💬 &nbsp;I am open to all ideas, contact me on Telegram.\
 ✉️ &nbsp;You can also reach me at contact@valentinp.fr ! I'll try to respond as soon as i can.
@@ -28,9 +28,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![ElectronJS](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron&logoColor=cyan)&nbsp;
+![VueJS](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mariadb&logoColor=orange)
