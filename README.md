@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🌱 &nbsp;I'm currently learning Rust.\
-✍️ &nbsp;I work at [Scaleway](https://scaleway.com) and association [Lynqo](https://lynqo.fr).\
+✍️ &nbsp;Working for [Scaleway](https://scaleway.com).\
 💬 &nbsp;I am open to all ideas, contact me on Telegram.\
 ✉️ &nbsp;You can also reach me at contact@valentinp.fr ! I'll try to respond as soon as i can.
 
