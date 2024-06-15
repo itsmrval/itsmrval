@@ -5,8 +5,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;I'm currently learning Rust.\
-✍️ &nbsp;Working for [Scaleway](https://scaleway.com).\
+🌱 &nbsp;I'm currently learning Go\
+✍️ &nbsp;Working for [Scaleway](https://scaleway.com)\
 ✉️ &nbsp;You can reach me at contact@valentinp.fr ! I'll try to respond as soon as i can.
 
 <img src="https://i.imgur.com/eO5gjYV.gif" align="right" width='300'/>
