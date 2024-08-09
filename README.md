@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;I'm currently learning Go\
+🌱 &nbsp;I'm currently learning Go and Kubernetes\
 ✍️ &nbsp;Working for [Scaleway](https://scaleway.com)\
 ✉️ &nbsp;You can reach me at contact@valentinp.fr ! I'll try to respond as soon as i can.
 
@@ -34,12 +34,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mariadb&logoColor=orange)
 
-### 🎨&nbsp;Other
+### 🎨&nbsp;Tools
 
-![adobe](https://img.shields.io/badge/-Suite%20Adobe%20CC-05122A?style=flat&logo=adobe-creative-cloud&logoColor=ED2224)&nbsp;
-![atlassian](https://img.shields.io/badge/-Suite%20Atlassian-05122A?style=flat&logo=atlassian&logoColor=blue)
+![adobe](https://img.shields.io/badge/-Adobe%20CC-05122A?style=flat&logo=adobe-creative-cloud&logoColor=ED2224)&nbsp;
+![atlassian](https://img.shields.io/badge/-Atlassian%20Suite-05122A?style=flat&logo=atlassian&logoColor=blue)
 ![gsuite](https://img.shields.io/badge/-Google%20Workspace-05122A?style=flat&logo=google-cloud&logoColor=yellow)
-![gsuite](https://img.shields.io/badge/-Office%20365-05122A?style=flat&logo=microsoft-office&logoColor=orange)
+![gsuite](https://img.shields.io/badge/-Office%20365-05122A?style=flat&logo=onlyoffice)
 
 
 
