@@ -5,9 +5,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;I'm currently learning Go and Kubernetes\
+🌱 &nbsp;Learning Go and Kubernetes\
 ✍️ &nbsp;Working for [Scaleway](https://scaleway.com)\
-✉️ &nbsp;You can reach me at contact@valentinp.fr ! I'll try to respond as soon as i can.
+✉️ &nbsp;You can reach me at contact@valentinp.fr, i'll try to respond as soon as i can.
 
 <img src="https://i.imgur.com/eO5gjYV.gif" align="right" width='300'/>
 
@@ -16,9 +16,6 @@
 ![ProxMox](https://img.shields.io/badge/-Proxmox-05122A?style=flat&logo=proxmox)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![vSphere](https://img.shields.io/badge/-vSphere-05122A?style=flat&logo=vmware)
-
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### 🛠&nbsp;Development
 
